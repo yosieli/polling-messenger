@@ -31,7 +31,7 @@ This code challenge can be broken down into 7 steps. It is recommended that you 
 
 #### Getting the messages
 The domain to use for all fetch requests will be messaged in slack.
-The endpoint for getting image looks like this:
+The endpoint for getting the data looks like this:
 ```js
 GET 'http://<domain>/messages'
 ```
